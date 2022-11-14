@@ -1,0 +1,20 @@
+Program:-Set of intsruction
+Programming:-Creation of Program
+--------------------------------------------------
+types of Programming language:
+
+1.High level language:
+->Near to human language and far to machine language
+    A.POP-Procedur Oriented Programming
+        ex. C language
+    B.OOP-Object Oriented Programming
+        ex. C++
+    C.Logiacal Programming
+        ex. Prolog language
+    D.Functional Programming 
+        ex. Python
+
+2.Low level language:
+->Near machine language and far to human language
+    ex.,1.machine language
+        2.Asembly language

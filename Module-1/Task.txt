@@ -1,0 +1,5 @@
+1.Web browser vs Serch engine
+2.HTTP vs HTTPS
+3.Error vs Bug
+4.TCP vs Ip
+5.What is Internet
