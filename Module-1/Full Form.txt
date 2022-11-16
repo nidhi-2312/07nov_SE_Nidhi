@@ -1,0 +1,8 @@
+TCP-Tramision Control Protocol
+IP-Intrenent Procol
+HTTP-Hyper Text Transfer Procol
+HTTPS-Hyper Text Transfer protocol Secure
+FTP-File Trnsfer Protocol
+SMTP- Simple Mail Transfer protocol
+UDP-User Dtagram protocol
+POP3-Post Office Protocol
