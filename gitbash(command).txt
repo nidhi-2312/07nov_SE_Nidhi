@@ -1,0 +1,7 @@
+step:1 cd -directery
+step:2 git init
+step:3 git remote add origin (link)
+step:4 git add .
+step:5 git commit -m 'added'
+step:6 git push origin master
+step:7 git log
