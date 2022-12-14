@@ -1,4 +1,4 @@
-Program:-Set of intsruction
+ Program:-Set of intsruction
 Programming:-Creation of Program
 --------------------------------------------------
 types of Programming language:
@@ -13,6 +13,8 @@ types of Programming language:
         ex. Prolog language
     D.Functional Programming 
         ex. Python
+    E.Scripting Programmimg
+	 ex.java script
 
 2.Low level language:
 ->Near machine language and far to human language
