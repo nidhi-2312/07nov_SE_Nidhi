@@ -15,10 +15,18 @@ void main()
             printf("C is max.");
         }    
     }
-    
-    else
+    // else if (a == b && b == c && a == c)
+    // {
+    //     printf("all are same");
+    // }
+    else if (a == c && b == c)
     {
-        if (b > c)
+        printf("\nAll are same.");
+    }
+    
+    // else
+    // {
+        else if (b > c)
         {
             printf("B is max.");
         }
@@ -27,5 +35,5 @@ void main()
         {
             printf("\nC is max.");
         }
-    }
+    // }
 }
