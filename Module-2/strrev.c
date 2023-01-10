@@ -7,6 +7,5 @@ void main()
     scanf("%s",&str);
     printf("Your original string is:%s",str);
     strrev(str);
-    printf("\nReversed string is:%s",str
-    );
+    printf("\nReversed string is:%s",str);
 }
