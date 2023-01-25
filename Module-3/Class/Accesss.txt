@@ -1,0 +1,8 @@
+1.Public:-
+    that class and inside the main()
+
+2.Private:-
+    only inside that class.
+
+3.Protected:-
+    Within that class or it's inherited class

@@ -1,4 +1,5 @@
 Class is a collection of data member and member function.
+Class is a blueprint of the object.
 
 Data member- variable which was define inside the class 
 Member function- function which was define inside the class
@@ -6,6 +7,13 @@ Member function- function which was define inside the class
 Class never occupie the memory 
 Class get the memory via object (but the actually it's object's memory)
 
+Class can have multiple objects
 Class was defined by 'class' keyword.
 
 you can define the data member but can't initialize the data member out the function.
+
+syntax:
+class class_name
+{
+    //body of class
+};

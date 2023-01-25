@@ -1,0 +1,13 @@
+Object is a instence of the class.
+
+Object is ocuppie the memory 
+
+syntax:
+class class_name 
+{
+    //code;
+}object_name;
+int main()
+{
+    class_name object_name;
+}

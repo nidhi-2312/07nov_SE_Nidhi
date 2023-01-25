@@ -1,0 +1,10 @@
+Constructor is a same name of the class
+No need to call the constructor, it's call by object by default
+No neeed to give the return type, it's return is same as class return type.
+Constructor is used to create a new memory
+
+type:
+1.Default Constructor
+2.Parametrized Constructor
+3.Copy Constructor
+4.Constructor in derived class
