@@ -1,0 +1,9 @@
+Defination:
+Reusablity of code.
+
+types:
+1.Sinlgle level
+2.Multi level
+3.Multiple
+4.Hyrachical
+5.Hybried
