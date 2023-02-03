@@ -1,9 +1,22 @@
-Defination:
-Reusablity of code.
+Defination:-
+->Reusablity of code
+->alredy you have functionality and just call it using inheritance  
+->Perent(Base) class min gives their's property
+->Child(Derived) class uses other class property
+->Object will defined for only last inherited class
+Types:-
 
-types:
-1.Sinlgle level
+1.Single level
+    ->One perent class and one child class
+
 2.Multi level
+    ->One perent(grand perernt) class, one sub-perent(perent) class and one child class
+
 3.Multiple
-4.Hyrachical
-5.Hybried
+    ->Multiple perent class and one child class
+
+4.Hirachical inheritance
+    ->Only one perent and multiple child
+    
+5.Hybrid inheritance
+    ->Combination of any 2 types of inheritance

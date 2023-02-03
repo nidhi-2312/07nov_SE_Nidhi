@@ -1,0 +1,13 @@
+One name many form
+--------------------------------------
+1.Compile Time
+    a.Overlodding
+        I.Function Overlodding
+        ->Same name of Function, Same class but diffrent prameter.
+        II.Operator Overlodding(using Operator keyword)
+    b.Overriding
+        I.Function Overriding
+        ->Same name of Function, Same prameter but diffrent class.
+
+2.Run Time
+    a.Virtual 
