@@ -1,0 +1,27 @@
+DDL:-Data Definition Language
+
+1.Create:-
+    i).Database:-
+    ->Create Database `Database_name`;
+
+    ii).Table:-
+    ->CREATE TABLE `table_name` 
+    (
+        `field_name1` field_datatype(size) primary auto_increment,
+        `field_name2` field_datatype(size),
+        `field_name3` field_datatype(size)
+    );
+
+2.Alter:-
+    i).Add primary key:-
+    ->ALTER TABLE `table_name` ADD PRIMARY KEY(`field_name`);
+    ii).Add auto_increment:-
+    ->ALTER TABLE `student` CHANGE `old_column_name` `new_column_name` data_type(size) NOT NULL AUTO_INCREMENT;
+    iii).Change column name:-
+    ->ALTER TABLE `student` CHANGE `old_column_name` `new_column_name` data_type(size);
+    iv.)Drop table:-
+    ->DROP TABLE `table_name`;
+    v.)Drop Database:-
+    ->DROP TABLE `Database_name`;
+    vi).Add foreign key:
+    ->alter table `table_name` add foreign key `column_name` reference `refrencetable_name`(`column_name`);

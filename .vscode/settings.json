@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "iostream": "cpp"
-    }
+    },
+    "cSpell.words": [
+        "refrencetable"
+    ]
 }
