@@ -9,3 +9,9 @@
 
 4.Drop Database:-
     ->DROP Database `Database_name`
+
+5.Grant:-
+    ->grant All on "STDATA" to HR
+
+6.Revoke:-
+    ->revoke ALL on "STDATA" from HR
